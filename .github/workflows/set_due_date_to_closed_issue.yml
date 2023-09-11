@@ -1,4 +1,4 @@
-name: Reusable Workflow to set due date to closed issue
+name: Set due date to closed issue
 
 on:
   issues:

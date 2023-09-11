@@ -1,5 +1,5 @@
 # This uses a reusable workflow
-name: Reusable Workflow to add a project to issues
+name: Add a project to issue
 
 on:
   issues:
